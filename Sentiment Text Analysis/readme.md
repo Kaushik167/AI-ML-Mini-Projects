@@ -53,7 +53,7 @@ This is useful for:
 
 ## 🧾 Credits
 
-📹 **Video Credits:** [Simple Sentiment Text Analysis in Python by NeuralNine](https://www.youtube.com/watch?v=tXuvh5_Xyrw)
-🤖 **README file:** Done with the help of ChatGPT  
+- 📹 **Video Credits:** [Simple Sentiment Text Analysis in Python by NeuralNine](https://www.youtube.com/watch?v=tXuvh5_Xyrw)
+- 🤖 **README file:** Done with the help of ChatGPT  
 
 ---
