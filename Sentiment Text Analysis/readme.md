@@ -48,14 +48,6 @@ This is useful for:
 - Basics of Natural Language Processing
 - Interpreting analytical results programmatically
 
----
-
-
-## 🎥 Video Credits
-
-**Simple Sentiment Text Analysis in Python**  
-YouTube Tutorial  
-🔗 https://www.youtube.com/watch?v=tXuvh5_Xyrw
 
 ---
 
