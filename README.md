@@ -11,7 +11,7 @@ Each project includes its own detailed README with instructions, screenshots, an
 A real-time machine learning project that captures images from a webcam and classifies them using a trained model.  
 Includes a Tkinter GUI for easy interaction and live prediction.  
 
-[View full project details](Camera%20Classifier/README.md)
+[View full project details](Camera%20Classifier/readme.md)
 
 ---
 
@@ -19,7 +19,7 @@ Includes a Tkinter GUI for easy interaction and live prediction.
 A Python project that classifies hand-drawn sketches into categories using image preprocessing and machine learning.  
 Supports training on custom datasets and predicts new drawings.  
 
-[View full project details](Custom%20Drawings%20Classifier/README.md)
+[View full project details](Custom%20Drawings%20Classifier/readme.md)
 
 ---
 
@@ -27,7 +27,7 @@ Supports training on custom datasets and predicts new drawings.
 A neural network project that recognizes handwritten digits (0-9) using the MNIST dataset.  
 Built with TensorFlow/Keras and demonstrates model training, evaluation, and prediction.  
 
-[View full project details](Handwritten%20Digits%20Recognition/README.md)
+[View full project details](Handwritten%20Digits%20Recognition/readme.md)
 
 ---
 
@@ -35,7 +35,7 @@ Built with TensorFlow/Keras and demonstrates model training, evaluation, and pre
 A machine learning regression project that predicts the price of a laptop based on its specifications.  
 Uses feature preprocessing, encoding, and a regression model (Random Forest Regressor).  
 
-[View full project details](Laptop%20Price%20Prediction/README.md)
+[View full project details](Laptop%20Price%20Prediction/readme.md)
 
 ---
 
@@ -43,14 +43,14 @@ Uses feature preprocessing, encoding, and a regression model (Random Forest Regr
 A Python project that creates a local AI assistant capable of answering queries using user-provided documents.  
 Implements a Retrieval-Augmented Generation (RAG) pipeline with LangChain and local LLMs via Ollama.  
 
-[View full project details](Local%20AI%20Agent/README.md)
+[View full project details](Local%20AI%20Agent/readme.md)
 
 ---
 
 ### 6. Sentiment Text Analysis
 A Python project that analyzes text and classifies it as positive, neutral, or negative using Natural Language Processing (TextBlob).  
 
-[View full project details](Sentiment%20Text%20Analysis/README.md)
+[View full project details](Sentiment%20Text%20Analysis/readme.md)
 
 ---
 
