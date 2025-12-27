@@ -5,7 +5,7 @@ Each project includes its own detailed README with instructions, screenshots, an
 
 ---
 
-## 🏁 Projects
+## Projects
 
 ### 1. Camera Classifier
 A real-time machine learning project that captures images from a webcam and classifies them using a trained model.  
