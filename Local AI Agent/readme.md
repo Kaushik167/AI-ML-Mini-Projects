@@ -1,6 +1,7 @@
 # 🤖 Local AI Agent in Python (Ollama + LangChain + RAG)
 
-A Python project that builds a **local AI agent** capable of answering questions using your own documents — all running locally without external APIs or cloud services.  
+A Python project that builds a **local AI agent** capable of answering questions using your own documents — all running locally without external APIs or cloud services.
+This project is based on the YouTube tutorial *“How to Build a Local AI Agent With Python”*.
 
 ---
 
