@@ -35,7 +35,7 @@ Built with TensorFlow/Keras and demonstrates model training, evaluation, and pre
 A machine learning regression project that predicts the price of a laptop based on its specifications.  
 Uses feature preprocessing, encoding, and a regression model (Random Forest Regressor).  
 
-[View full project details](Laptop%20Price%20Prediction/readme.md)
+[View full project details](Laptop%20price%20prediction/readme.md)
 
 ---
 
