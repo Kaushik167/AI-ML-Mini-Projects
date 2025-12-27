@@ -56,14 +56,6 @@ The classifier can be trained with custom image data and then used to predict cl
 
 ---
 
-## 🚀 How to Run the Project
-
-Install the required dependencies:
-```bash
-pip install opencv-python scikit-learn pillow
-```
----
-
 ## 🧾 Credits
 
 - 📹 **Video Credits:** [Building A Camera Classifier in Python by NeuralNine](https://www.youtube.com/watch?v=CeTR_-ALdRw)
